@@ -84,8 +84,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. What did you do to make good UI?
+2. In what ways did you push yourself to learn new material to implement a specific UI?
 
 ## Video Walkthrough 
 
